@@ -1,0 +1,28 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "reverse_engineering",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "euvlko3ox72strpy",
+    "password": "qcg8knjf1a6tgg3r",
+    "database": "ot9h1pudul1enbtk",
+    "host": "ixqxr3ajmyapuwmi.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
+
+
